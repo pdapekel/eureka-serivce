@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: eureka-service
+# it's possible to set eureka service as config client
+#  cloud:
+#    config:
+#      fail-fast: true
+#      username: system
+#      password: "{cipher}c80c892954438ee57485bc677c72721ccc4adc370243a1deeb0a6174ab5070c4"
